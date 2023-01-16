@@ -1,4 +1,10 @@
-This is the instruction part.i
+<<<<<<< HEAD
+First line
+This is the instruction part.
+=======
+This is the instructions part.
+Second line
+>>>>>>> experimental
 Instructions
 The Most Amazing Chocolate Cake
 
